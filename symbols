@@ -1,3 +1,4 @@
+libQt6NetworkAuth.so.6:NonQt
 libQt6NetworkAuth.so.6:Qt_6
 libQt6NetworkAuth.so.6:Qt_6_PRIVATE_API
 libQt6NetworkAuth.so.6:_ZN14QAbstractOAuth11qt_metacallEN11QMetaObject4CallEiPPv
